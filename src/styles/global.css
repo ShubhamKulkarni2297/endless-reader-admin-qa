@@ -1,0 +1,50 @@
+/* * {
+    font-family: 'Inter var', Roboto, Helvetica Neue, Arial, sans-serif;
+} */
+
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/Poppins-Regular.ttf'),
+  }
+@font-face {
+    font-family: 'poppins-bold';
+    src: url('../fonts/Poppins-Bold.ttf'),
+  }
+@font-face {
+    font-family: 'poppins-medium';
+    src: url('../fonts/Poppins-Medium.ttf'),
+  }
+  
+ 
+
+:root {
+    --bs-body-font-family: 'Poppins', sans-serif;
+    --bs-body-font-size: 13px;
+  }
+  
+  body {
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+  }
+  .poppins {
+	font-family: "poppins";
+	font-weight: 400;
+	font-size: 13px;
+}
+
+.popins-medium {
+	font-family: "poppins-medium";
+	font-size: 16px;
+}
+.popins-bold {
+	font-family: "poppins-bold";
+	font-size: 16px;
+}
+
+.avenir {
+	font-family: "avenir";
+}
+.rdt_TableHeadRow{
+    background-color: lightgrey !important;
+}
+

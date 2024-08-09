@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-dip3t8 {
+    background-color: #2A3042 !important;
+}
+
+.custom-menu-item {
+    color: #8992AE;
+}
+
+.custom-menu-item-hover {
+    color: #FFFFFF;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    height: 0.3em !important;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 6.5px 14px !important;
+}
